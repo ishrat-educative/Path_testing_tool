@@ -1,0 +1,48 @@
+
+ Module Title: Git and GitHub
+	 ==>Lesson Title: Introduction: Git Branching
+	 Lesson URL: https://www.educative.io/courses/learn-git-hard-way/qVpOPnoKyor
+
+	 start: https://www.educative.io/collection/page/10370001/6075350136651776/6014848945618944
+
+ Module Title: Git and GitHub
+	 ==>Lesson Title: The 'git submodule' Command
+	 Lesson URL: https://www.educative.io/courses/learn-git-hard-way/mErkE7v0ZE0
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/6075350136651776/6572936616476672
+
+ Module Title: Git and GitHub
+	 ==>Lesson Title: Forking And Branching in GitHub
+	 Lesson URL: https://www.educative.io/courses/learn-git-hard-way/7XYGzmvz3rG
+
+	 rebase chapter: https://www.educative.io/collection/page/10370001/6075350136651776/6228325110906880
+
+ Module Title: Git and GitHub
+	 ==>Lesson Title: Make a Pull Request (delete)
+	 Lesson URL: https://www.educative.io/courses/learn-git-hard-way/YV8DAEzYplA
+
+	 rebase chapter: https://www.educative.io/collection/page/10370001/6075350136651776/6228325110906880
+
+ Module Title: Git and GitHub
+	 ==>Lesson Title: The 'git log' Command
+	 Lesson URL: https://www.educative.io/courses/learn-git-hard-way/q2v8M0Bkqm2
+
+	 chapter on rebasing: https://www.educative.io/collection/page/10370001/6075350136651776/6228325110906880
+
+ Module Title: Git and GitHub
+	 ==>Lesson Title: Squashes the Commits
+	 Lesson URL: https://www.educative.io/courses/learn-git-hard-way/my8vrnm9j4n
+
+	 chapter: https://www.educative.io/collection/page/10370001/6075350136651776/6591426467463168
+
+ Module Title: Git and GitHub
+	 ==>Lesson Title: Introduction: Cherry-Picking and Three-Way Merges
+	 Lesson URL: https://www.educative.io/courses/learn-git-hard-way/gkP0V7Ekm8G
+
+	 previously: https://www.educative.io/collection/page/10370001/6075350136651776/5528913661394944
+
+ Module Title: Git and GitHub
+	 ==>Lesson Title: A ‘pre-commit’ Hook
+	 Lesson URL: https://www.educative.io/courses/learn-git-hard-way/g2Nr71AJXAj
+
+	 this: https://www.educative.io/collection/page/10370001/6075350136651776/6425606638534656

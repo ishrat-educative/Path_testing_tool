@@ -1,0 +1,86 @@
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Routing
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/qAx5rnkq4jk
+
+	 controllers: https://www.educative.io/collection/page/10370001/6079504494624768/5353200124166144
+
+	 middleware: https://www.educative.io/collection/page/10370001/6079504494624768/5198548149731328
+
+	 validators: https://www.educative.io/collection/page/10370001/6079504494624768/5795931130691584
+
+	 Views: https://www.educative.io/collection/page/10370001/6079504494624768/4715036703457280
+
+	 edge template: https://www.educative.io/collection/page/10370001/6079504494624768/4609916848308224
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Challenge: Create the About and Dashboard Routes
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/g2MYxBjPVL6
+
+	 Solution Review: https://www.educative.io/collection/page/10370001/6079504494624768/5144326335102976
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Solution: Create the About and Dashboard Routes
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/YMqMY1YgW9K
+
+	 here: https://www.educative.io/collection/page/10370001/6079504494624768/4523600347398144
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Challenge: Create a View to Display the HTTP Request Method
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/B6Kxnq9NpXW
+
+	 Solution Review: https://www.educative.io/collection/page/10370001/6079504494624768/6016985038061568
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Solution: Create a View to Display the HTTP Request Method
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/NEvXrzw1N6v
+
+	 here: https://www.educative.io/collection/page/10370001/6079504494624768/4929712596975616
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Challenge: Set and View a Cookie
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/xV4PVzBYwWB
+
+	 Solution Review: https://www.educative.io/collection/page/10370001/6079504494624768/4873297524162560
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Solution: Set and View a Cookie
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/B6VDjNN7zy2
+
+	 here: https://www.educative.io/collection/page/10370001/6079504494624768/5983334176915456
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Models
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/gkm4GNMRPRr
+
+	 lesson: https://www.educative.io/collection/page/10370001/6079504494624768/6325111568203776
+
+	 Solution lesson: https://www.educative.io/collection/page/10370001/6079504494624768/5648026080116736
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Challenge: Create a Suppliers Table
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/xopwGWB4oj9
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Solution: Create a Suppliers Table
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/3jylRjz6NP9
+
+	 here: https://www.educative.io/collection/page/10370001/6079504494624768/6722093717651456
+
+	 previously: https://www.educative.io/collection/page/10370001/6079504494624768/6004186511572992
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Functional Tests
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/xVg8K71WGQB
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Challenge: Test a Function
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/B6MjKRJAMpn
+
+	 Solution lesson: https://www.educative.io/collection/page/10370001/6079504494624768/6117432535023616
+
+ Module Title: Designing Applications with AdonisJS
+	 ==>Lesson Title: Solution: Test a Function
+	 Lesson URL: https://www.educative.io/courses/building-full-stack-web-applications-adonisjs/B8D28MJMAGN
+
+	 here: https://www.educative.io/collection/page/10370001/6079504494624768/4699437489192960

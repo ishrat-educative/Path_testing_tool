@@ -1,0 +1,36 @@
+
+ Module Title: A Practical Guide to Kubernetes
+	 ==>Lesson Title: Monitoring Health
+	 Lesson URL: https://www.educative.io/courses/practical-guide-to-kubernetes/mEYX8n69GyG
+
+	 later: https://www.educative.io/collection/page/5376908829130752/4742963282313216/6332913870176256
+
+	 explained: https://www.educative.io/collection/page/10370001/5920988434792448/6225984300777472
+
+ Module Title: A Practical Guide to Kubernetes
+	 ==>Lesson Title: Giving Others Access to the Cluster
+	 Lesson URL: https://www.educative.io/courses/practical-guide-to-kubernetes/g7GR4B0pJxl
+
+ Module Title: A Practical Guide to Kubernetes
+	 ==>Lesson Title: Analyzing Failure of the Stateful Application
+	 Lesson URL: https://www.educative.io/courses/practical-guide-to-kubernetes/RMLGyVgAO1w
+
+	 Volumes: https://www.educative.io/collection/page/5376908829130752/4742963282313216/4769265662033920
+
+ Module Title: A Practical Guide to Kubernetes
+	 ==>Lesson Title: Giving Others Access to the Cluster
+	 Lesson URL: https://www.educative.io/courses/practical-guide-to-kubernetes/g7GR4B0pJxl
+
+	 explained: https://www.educative.io/collection/page/10370001/5920988434792448/6225984300777472
+
+	 Volumes: https://www.educative.io/collection/page/5376908829130752/4742963282313216/4769265662033920
+
+ Module Title: A Practical Guide to Kubernetes
+	 ==>Lesson Title: Analyzing Failure of the Stateful Application
+	 Lesson URL: https://www.educative.io/courses/practical-guide-to-kubernetes/RMLGyVgAO1w
+
+	 later: https://www.educative.io/collection/page/5376908829130752/4742963282313216/6332913870176256
+
+ Module Title: A Practical Guide to Kubernetes
+	 ==>Lesson Title: Monitoring Health
+	 Lesson URL: https://www.educative.io/courses/practical-guide-to-kubernetes/mEYX8n69GyG

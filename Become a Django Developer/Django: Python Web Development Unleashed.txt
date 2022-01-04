@@ -1,0 +1,146 @@
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Variables
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/g7kYNmOLqmj
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5026411048861696/5172128048480256
+
+	 Code Templates in Django: https://www.educative.io/collection/page/10370001/5026411048861696/4517477020073984
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Code Templates in Django
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/7XYq61RRX1G
+
+	 Variables: https://www.educative.io/collection/page/10370001/5026411048861696/6293769696575488
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Using Static Files in Django
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/7ADrGkokOgQ
+
+	 Code Templates in Django: https://www.educative.io/collection/page/10370001/5026411048861696/4517477020073984
+
+	 Code Templates in Django: https://www.educative.io/collection/page/10370001/5026411048861696/4517477020073984
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Project Solution: Template Inheritance
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/gxm8419ROV6
+
+	 Template Inheritance: https://www.educative.io/collection/page/10370001/5026411048861696/5798512387162112
+
+	 Using Static Files in Django: https://www.educative.io/collection/page/10370001/5026411048861696/5094632544272384
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Implementing Examples of Models
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/mE0VLXZ3J7A
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5026411048861696/6560773452070912
+
+	 next lesson: https://www.educative.io/collection/page/10370001/5026411048861696/4676476810035200
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Our First Django Form
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/JY2v79V5X1v
+
+	 Models chapter: https://www.educative.io/collection/page/10370001/5026411048861696/6560773452070912
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Render the Form
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/JYJ00Jr1PMg
+
+	 Using Static Files in Django: https://www.educative.io/collection/page/10370001/5026411048861696/5094632544272384
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Form Fields
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/gxOGY4Bpv9D
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5026411048861696/6137113943736320
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5026411048861696/6137113943736320
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Project Solution: Inserting Users at Sign-Up
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/B1rXjAjj9yN
+
+	 Project Solution: Make a Signup Form: https://www.educative.io/collection/page/10370001/5026411048861696/6696519001440256
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Project Solution: Authenticate the User at Login
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/xV9oVr9WyA9
+
+	 Project Solution: Make a Login Form: https://www.educative.io/collection/page/10370001/5026411048861696/5001043805995008
+Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Project Solution: Updating Songs
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/YQKEog9z9g2
+
+	 Model Form: https://www.educative.io/collection/page/10370001/5026411048861696/4710983609090048
+
+	 Static and Dynamic Routing: https://www.educative.io/collection/page/10370001/5026411048861696/5473946775322624
+
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Variables
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/g7kYNmOLqmj
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5026411048861696/5172128048480256
+
+	 Code Templates in Django: https://www.educative.io/collection/page/10370001/5026411048861696/4517477020073984
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Code Templates in Django
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/7XYq61RRX1G
+
+	 Variables: https://www.educative.io/collection/page/10370001/5026411048861696/6293769696575488
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Using Static Files in Django
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/7ADrGkokOgQ
+
+	 Code Templates in Django: https://www.educative.io/collection/page/10370001/5026411048861696/4517477020073984
+
+	 Code Templates in Django: https://www.educative.io/collection/page/10370001/5026411048861696/4517477020073984
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Project Solution: Template Inheritance
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/gxm8419ROV6
+
+	 Template Inheritance: https://www.educative.io/collection/page/10370001/5026411048861696/5798512387162112
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Implementing Examples of Models
+	 Lesson URL: https://www.educative.io/collection/page/10370001/5026411048861696/5176119817928704
+
+	 Using Static Files in Django: https://www.educative.io/collection/page/10370001/5026411048861696/5094632544272384
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5026411048861696/6560773452070912
+
+	 next lesson: https://www.educative.io/collection/page/10370001/5026411048861696/4676476810035200
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Our First Django Form
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/JY2v79V5X1v
+
+	 Models chapter: https://www.educative.io/collection/page/10370001/5026411048861696/6560773452070912
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Render the Form
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/JYJ00Jr1PMg
+
+	 Using Static Files in Django: https://www.educative.io/collection/page/10370001/5026411048861696/5094632544272384
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Form Fields
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/gxOGY4Bpv9D
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5026411048861696/6137113943736320
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5026411048861696/6137113943736320
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Project Solution: Inserting Users at Sign-Up
+	 Lesson URL: https://www.educative.io/collection/page/10370001/5026411048861696/6256732134178816
+
+	 Project Solution: Make a Signup Form: https://www.educative.io/collection/page/10370001/5026411048861696/6696519001440256
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Project Solution: Authenticate the User at Login
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/xV9oVr9WyA9
+
+	 Project Solution: Make a Login Form: https://www.educative.io/collection/page/10370001/5026411048861696/5001043805995008
+
+ Module Title: Django: Python Web Development Unleashed
+	 ==>Lesson Title: Project Solution: Updating Songs
+	 Lesson URL: https://www.educative.io/courses/django-python-web-development/YQKEog9z9g2
+
+	 Model Form: https://www.educative.io/collection/page/10370001/5026411048861696/4710983609090048
+
+	 Static and Dynamic Routing: https://www.educative.io/collection/page/10370001/5026411048861696/5473946775322624

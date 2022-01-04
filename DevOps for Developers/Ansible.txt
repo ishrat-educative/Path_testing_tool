@@ -1,0 +1,34 @@
+
+	 AWS: https://www.educative.io/collection/page/10370001/5161609486925824/6258389173141504
+
+ Module Title: Ansible
+	 ==>Lesson Title: Ad-hoc Commands against Remote Hosts
+	 Lesson URL: https://www.educative.io/courses/ansible-zero-to-production-ready/gxvkwPlyQEj
+
+	 AWS: https://www.educative.io/collection/page/10370001/5161609486925824/6258389173141504
+
+ Module Title: Ansible
+	 ==>Lesson Title: Introduction to Inventories
+	 Lesson URL: https://www.educative.io/courses/ansible-zero-to-production-ready/RMjK3LKkxOY
+
+ Module Title: Ansible
+	 ==>Lesson Title: Introduction
+	 Lesson URL: https://www.educative.io/courses/ansible-zero-to-production-ready/7AJMl4zz86j
+
+	 AWS: https://www.educative.io/collection/page/10370001/5161609486925824/6258389173141504
+
+ Module Title: Ansible
+	 ==>Lesson Title: Introduction
+	 Lesson URL: https://www.educative.io/courses/ansible-zero-to-production-ready/qVpyRZD82k3
+
+	 AWS: https://www.educative.io/collection/page/10370001/5161609486925824/6258389173141504
+
+	 AWS - Create a Dynamic Inventory: https://www.educative.io/collection/page/10370001/5161609486925824/4669738278453248
+
+	 Azure - Create a Dynamic Inventory: https://www.educative.io/collection/page/10370001/5161609486925824/6292275307479040
+
+ Module Title: Ansible
+	 ==>Lesson Title: Introduction
+	 Lesson URL: https://www.educative.io/courses/ansible-zero-to-production-ready/7XPVLBA5AoO
+
+	 AWS: https://www.educative.io/collection/page/10370001/5161609486925824/6258389173141504

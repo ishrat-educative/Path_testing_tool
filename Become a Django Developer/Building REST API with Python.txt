@@ -1,0 +1,6 @@
+
+ Module Title: Building REST API with Python
+	 ==>Lesson Title: Introduction to FastAPI
+	 Lesson URL: https://www.educative.io/pageeditor/10370001/5496735255756800/5422116071014400
+
+	 website: https://www.educative.io/courses/rest-api-python-microsoft-azure/RL8PloBWLx0

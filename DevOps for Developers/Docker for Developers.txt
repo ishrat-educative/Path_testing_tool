@@ -1,0 +1,74 @@
+
+	 Get Docker up and Running: https://www.educative.io/collection/page/10370001/4646285862764544/5457550810021888
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: A DevOps Enabler Tool
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/BnkMrpBD6NW
+
+	 orchestration tools: https://www.educative.io/collection/page/10370001/4646285862764544/4909109340012544
+
+	 Docker with Common Development Profiles: https://www.educative.io/collection/page/10370001/4646285862764544/4546210692071424
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Community on a Developer or CI Machine
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/q2lAWAJmEAG
+
+	 hello-world test: https://www.educative.io/collection/page/10370001/4646285862764544/5457550810021888
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Do-It-Yourself: Run a Container
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/N0A3Xyqx8Oz
+
+	 later: https://www.educative.io/collection/page/10370001/4646285862764544/6577395349848064
+
+	 Docker Hub: https://www.educative.io/collection/page/10370001/4646285862764544/5381056167411712
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Where Do Images Come From?
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/JEgP09Q51JK
+
+	 private registries: https://www.educative.io/collection/page/10370001/4646285862764544/4815680429883392
+
+	 wouldn’t be downloaded: https://www.educative.io/collection/page/10370001/4646285862764544/5914552594071552
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Parameters as Environment Variables
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/YQqmAQ77D0K
+
+	 orchestrators: https://www.educative.io/collection/page/10370001/4646285862764544/4909109340012544
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Storage
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/R1JN3YPD89L
+
+	 Using Volumes: https://www.educative.io/collection/page/10370001/4646285862764544/6648876037570560
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Networking
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/R86zjoP4O60
+
+	 Listening for Incoming Network Connections: https://www.educative.io/collection/page/10370001/4646285862764544/5421461491679232
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Rationale for Publishing
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/NE2jv7BpQKK
+
+	 chapter: https://www.educative.io/collection/page/10370001/4646285862764544/6071250449334272
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Registries
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/3w3l8M6K41p
+
+	 Private Registries: https://www.educative.io/collection/page/10370001/4646285862764544/4815680429883392
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Size Matters
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/7n69ZyL0o1G
+
+	 Create Docker Images: https://www.educative.io/collection/page/10370001/4646285862764544/6071250449334272
+
+	 Size Matters: https://www.educative.io/collection/page/10370001/4646285862764544/5593009733238784
+
+ Module Title: Docker for Developers
+	 ==>Lesson Title: Multi-Stage Dockerfiles
+	 Lesson URL: https://www.educative.io/courses/docker-for-developers/gxARPLD2B4l

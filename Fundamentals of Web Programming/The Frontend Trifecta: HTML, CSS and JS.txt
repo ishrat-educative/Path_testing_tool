@@ -1,0 +1,13 @@
+
+
+ Module Title: The Frontend Trifecta: HTML, CSS and JS
+	 ==>Lesson Title: Spread Operator and Rest Parameters
+	 Lesson URL: https://www.educative.io/courses/complete-guide-to-modern-javascript/JQOAGA2nqE9
+
+	 “ES2018: Async Iteration and more": https://www.educative.io/collection/page/5021873521819648/5278579631849472/5998482722652160
+
+ Module Title: The Frontend Trifecta: HTML, CSS and JS
+	 ==>Lesson Title: Generators
+	 Lesson URL: https://www.educative.io/courses/complete-guide-to-modern-javascript/JYo2BDrmXrP
+
+	 ES2018: Async Iteration and more: https://www.educative.io/collection/page/5021873521819648/5278579631849472/5998482722652160

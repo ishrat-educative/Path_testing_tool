@@ -1,0 +1,90 @@
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Cypress UI
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/YM9Yywg291O
+
+	 Cypress Vs Other Tools: https://www.educative.io/collection/page/10370001/5983729156096000/6235263328583680
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: What is an E2E Test?
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/q2DXBj4ApLk
+
+	 testing rules: https://www.educative.io/collection/page/10370001/5983729156096000/5128845292732416
+
+	 testing rules: https://www.educative.io/collection/page/10370001/5983729156096000/5128845292732416
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Interacting with the Page
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/JP81nm6BQKK
+
+	 Cypress waitings and execution order lesson: https://www.educative.io/collection/page/10370001/5983729156096000/6690920250998784
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Cypress Waitings and Execution Order
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/7DQOz0MVBMw
+
+	 lesson: https://www.educative.io/collection/page/10370001/5983729156096000/5020837669765120
+
+	 Main E2E Test Defects: Stability: https://www.educative.io/collection/page/10370001/5983729156096000/4835091189071872
+
+	 Cypress waits automatically: https://www.educative.io/collection/page/10370001/5983729156096000/6690920250998784
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Main E2E Test Defects: Stability
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/R1E1EEREGME
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Main E2E Test Defects: Utility in Case of Failure
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/7XRpwM3Rw6j
+
+	 testing rules: https://www.educative.io/collection/page/10370001/5983729156096000/5128845292732416
+
+	 rule: https://www.educative.io/collection/page/10370001/5983729156096000/5128845292732416
+
+	 Cypress Waitings and Execution Order: https://www.educative.io/collection/page/10370001/5983729156096000/6690920250998784
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Solution Review: Fill Input Field
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/JQ19j3YOy2K
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Waiting for an Ajax Request
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/xokXJmwk4Xr
+
+	 list of problems: https://www.educative.io/collection/page/10370001/5983729156096000/4764411412086784
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Asserting on Payloads
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/B8E12010O4Y
+
+	 list of problems: https://www.educative.io/collection/page/10370001/5983729156096000/4764411412086784
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Signup
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/xVDwzGm6pwr
+
+	 RealWorld: https://www.educative.io/collection/page/10370001/5983729156096000/6292614949634048
+
+	 testing rules: https://www.educative.io/collection/page/10370001/5983729156096000/5128845292732416
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: App Actions
+	 Lesson URL: https://www.educative.io/collection/page/10370001/5983729156096000/6519994108608512
+
+	 Custom Command: https://www.educative.io/collection/page/10370001/5983729156096000/6033828557094912
+
+	 App Constants: https://www.educative.io/collection/page/10370001/5983729156096000/5986522294124544
+
+	 RealWorld: https://www.educative.io/collection/page/10370001/5983729156096000/6292614949634048
+
+	 lesson: https://www.educative.io/collection/page/10370001/5983729156096000/6033828557094912
+
+ Module Title: Front-end Testing 101: Integration and End-to-end Testing
+	 ==>Lesson Title: Sharing Authentication State
+	 Lesson URL: https://www.educative.io/courses/front-end-testing-integration/gkmYWoX497k
+
+	 Testing Rules: https://www.educative.io/collection/page/10370001/5983729156096000/5128845292732416
+
+	 RealWorld: https://www.educative.io/collection/page/10370001/5983729156096000/6292614949634048
+
+	 cypress-testing-library: https://www.educative.io/collection/page/10370001/5983729156096000/4510732675186688

@@ -1,0 +1,18 @@
+
+ Module Title: Kubernetes Monitoring, Logging and Auto-Scaling
+	 ==>Lesson Title: Create a Cluster
+	 Lesson URL: https://www.educative.io/courses/advanced-kubernetes-techniques/7nqEKWNzRpA
+
+	 Exploring Centralized Logging Through: https://www.educative.io/collection/page/10370001/5017680635494400/5724642992979968
+
+ Module Title: Kubernetes Monitoring, Logging and Auto-Scaling
+	 ==>Lesson Title: Explore Centralized Logging Through Papertrail
+	 Lesson URL: https://www.educative.io/courses/advanced-kubernetes-techniques/g2PBz7x8Kn9
+
+	 Combine GCP StackDriver With A GKE Cluster: https://www.educative.io/collection/page/10370001/5017680635494400/6467044193075200
+
+	 Combine AWS CloudWatch with an EKS Cluster: https://www.educative.io/collection/page/10370001/5017680635494400/5363697159503872
+
+	 Combine Azure Log Analytics with an AKS Cluster: https://www.educative.io/collection/page/10370001/5017680635494400/5761423546253312
+
+	 Explore Centralized Logging: https://www.educative.io/collection/page/10370001/5017680635494400/5724642992979968

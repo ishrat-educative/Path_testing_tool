@@ -1,0 +1,6 @@
+
+ Module Title: Integrate Auth0 with Java Servlet Application
+	 ==>Lesson Title: Java Servlet Application
+	 Lesson URL: https://www.educative.io/courses/integrate-auth0-java-servlet/JEKYz9PqlJo
+
+	 previous lesson: https://www.educative.io/collection/page/10370001/5998644794228736/5798162884722688

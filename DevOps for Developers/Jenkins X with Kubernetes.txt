@@ -1,0 +1,96 @@
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: To Create a Cluster or Not to Create a Cluster?
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/B1PzV0VE02o
+
+	 Creating A Google Kubernetes Engine (GKE) Cluster With jx: https://www.educative.io/collection/page/10370001/6098825845407744/5048941222559744
+
+	 Creating An Amazon Elastic Container Service for Kubernetes (EKS) Cluster With jx: https://www.educative.io/collection/page/10370001/6098825845407744/4634544658448384
+
+	 Creating An Azure Kubernetes Service (AKS) Cluster With jx: https://www.educative.io/collection/page/10370001/6098825845407744/5439347038879744
+
+	 Is Your Existing Cluster Ready For Jenkins X?: https://www.educative.io/collection/page/10370001/6098825845407744/5387604594786304
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Create a Google Kubernetes Engine (GKE) cluster with jx
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/gk2yO3pP7PZ
+
+	 What Did We Get?: https://www.educative.io/collection/page/10370001/6098825845407744/6751460185341952
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Create an Amazon Elastic Kubernetes Service (EKS) cluster with jx
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/7XkoRYN1Ykw
+
+	 What Did We Get?: https://www.educative.io/collection/page/10370001/6098825845407744/6751460185341952
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: To Create a Cluster or Not to Create a Cluster?
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/B1PzV0VE02o
+
+	 Creating A Google Kubernetes Engine (GKE) Cluster With jx: https://www.educative.io/collection/page/10370001/6098825845407744/5048941222559744
+
+	 Creating An Amazon Elastic Container Service for Kubernetes (EKS) Cluster With jx: https://www.educative.io/collection/page/10370001/6098825845407744/4634544658448384
+
+	 Creating An Azure Kubernetes Service (AKS) Cluster With jx: https://www.educative.io/collection/page/10370001/6098825845407744/5439347038879744
+
+	 Is Your Existing Cluster Ready For Jenkins X?: https://www.educative.io/collection/page/10370001/6098825845407744/5387604594786304
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Create a Google Kubernetes Engine (GKE) cluster with jx
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/gk2yO3pP7PZ
+
+	 What Did We Get?: https://www.educative.io/collection/page/10370001/6098825845407744/6751460185341952
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Create an Amazon Elastic Kubernetes Service (EKS) cluster with jx
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/7XkoRYN1Ykw
+
+	 What Did We Get?: https://www.educative.io/collection/page/10370001/6098825845407744/6751460185341952
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Create an Azure Kubernetes Service (AKS) cluster with jx
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/gkmkyvv7x16
+
+	 What Did We Get?: https://www.educative.io/collection/page/10370001/6098825845407744/6751460185341952
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Is Your Cluster Ready for Jenkins X?
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/mE5gXGw1BnR
+
+	 Install Jenkins X in an Existing Kubernetes Cluster: https://www.educative.io/collection/page/10370001/6098825845407744/5359549633527808
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: What Now?
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/m7M1rqzjLBn
+
+	 Applying GitOps Principles: https://www.educative.io/collection/page/10370001/6098825845407744/4812820127416320
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Versioning Releases Through Tags
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/xVmB0wmlwpr
+
+	 Improving And Simplifying Software Development: https://www.educative.io/collection/page/10370001/6098825845407744/5097431906648064
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Understanding Jenkins X Version Stream
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/7nBzNGwA7QG
+
+	 Validating Upgrades And Backing Up The Cluster: https://www.educative.io/collection/page/10370001/6098825845407744/6034238026547200
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Creating a New Serverless Application Project
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/qZoDq4wKP97
+
+	 Changing URL Patterns: https://www.educative.io/collection/page/10370001/6098825845407744/5052046886567936
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: Using Serverless Strategy with Gloo and Knative (GKE Only)
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/qZKlypqQ023
+
+	 Using Jenkins X To Define And Run Serverless Deployments: https://www.educative.io/collection/page/10370001/6098825845407744/4663226148061184
+
+ Module Title: Jenkins X with Kubernetes
+	 ==>Lesson Title: A Quick Introduction to Istio, Prometheus, and Flagger
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-working-with-jenkins-x/xV4jpMgOMoP
+
+	 Using Jenkins X To Define And Run Serverless Deployments: https://www.educative.io/collection/page/10370001/6098825845407744/4663226148061184

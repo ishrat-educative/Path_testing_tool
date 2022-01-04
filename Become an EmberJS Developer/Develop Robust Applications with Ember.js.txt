@@ -1,0 +1,176 @@
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: The First Template
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/JEBYzGyygQl
+
+	 Routing: https://www.educative.io/collection/page/10370001/4603037207756800/6673520816291840
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Adding Assets to the Build
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/R877rOvy2Ez
+
+	 next chapter: https://www.educative.io/collection/page/10370001/4603037207756800/6673520816291840
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Setting up Routes
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/7DP3jZRLAQy
+
+	 next lesson: https://www.educative.io/collection/page/10370001/4603037207756800/4950774235267072
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Moving Around With LinkTo
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/7nEv6GPYNO8
+
+	 next chapter: https://www.educative.io/collection/page/10370001/4603037207756800/4526561804419072
+
+	 next lesson: https://www.educative.io/collection/page/10370001/4603037207756800/5016560865902592
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Setting Up Nested Routes
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/R1jMDo2JKKY
+
+	 Routing: https://www.educative.io/collection/page/10370001/4603037207756800/6673520816291840
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Nested Templates
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/gxrkpvOX2jY
+
+	 screenshot: https://www.educative.io/collection/page/10370001/4603037207756800/4526561804419072
+
+	 next lesson: https://www.educative.io/collection/page/10370001/4603037207756800/5709562697482240
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Creating New Templates
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/7nDzGr24nqQ
+
+	 next lesson: https://www.educative.io/collection/page/10370001/4603037207756800/6553701374754816
+
+	 previous chapter: https://www.educative.io/collection/page/10370001/4603037207756800/6673520816291840
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Improving Page Titles
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/B1MjJRXWE9x
+
+	 Controllers chapter: https://www.educative.io/collection/page/10370001/4603037207756800/4509168193503232
+
+	 next chapter: https://www.educative.io/collection/page/10370001/4603037207756800/5135106379874304
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Implementing the Component
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/Y5kEyPAorMY
+
+	 Appendix: https://www.educative.io/collection/page/10370001/4603037207756800/6162709177958400
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Rendering the Component
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/3w3BLJvRBnR
+
+	 Appendix: https://www.educative.io/collection/page/10370001/4603037207756800/5124726983229440
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Expressions in Templates
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/R8qR8mMpGnV
+
+	 Helpers: https://www.educative.io/collection/page/10370001/4603037207756800/6019909199331328
+
+	 Nested routes: https://www.educative.io/collection/page/10370001/4603037207756800/4526561804419072
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Creating a Controller
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/B65KBvrKznX
+
+	 Components: https://www.educative.io/collection/page/10370001/4603037207756800/5135106379874304
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Event Handlers
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/xV03VPB3mMl
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Creating a Service
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/YMVqx2zkRRn
+
+	 Controllers: https://www.educative.io/collection/page/10370001/4603037207756800/5900480100696064
+
+	 next lesson: https://www.educative.io/collection/page/10370001/4603037207756800/4609970539069440
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Using an API
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/g79jBJZExRr
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Updating Song Ratings
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/R1DL062RQnV
+
+	 Components: https://www.educative.io/collection/page/10370001/4603037207756800/5135106379874304
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Are We There Yet?
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/myv50OZ0r0R
+
+	 next chapter: https://www.educative.io/collection/page/10370001/4603037207756800/4719578138017792
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Router Hooks and Events
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/mymLZ1EpoE0
+
+	 Nested routes: https://www.educative.io/collection/page/10370001/4603037207756800/4526561804419072
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Showing Something on the Index Page
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/YQ02BAEQnPW
+
+	 Nested Routes: https://www.educative.io/collection/page/10370001/4603037207756800/4526561804419072
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Redirecting in Ember
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/xl5oYnG4Aqz
+
+	 Nested Routes: https://www.educative.io/collection/page/10370001/4603037207756800/4585039864528896
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Marking Links as Active
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/xoGkXrx5P4n
+
+	 Displaying the Band’s Name: https://www.educative.io/collection/page/10370001/4603037207756800/5283087175385088
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Introduction to Types of Testing
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/m2MW917Jnx9
+
+	 next chapter: https://www.educative.io/collection/page/10370001/4603037207756800/5722289641881600
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Writing Acceptance Tests
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/B1M4DA5VE02
+
+	 Advanced Routing: https://www.educative.io/collection/page/10370001/4603037207756800/5744588843646976
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Testing Band Creation
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/N8Jm8ZJnOO2
+
+	 detour: https://www.educative.io/collection/page/10370001/4603037207756800/6104161442070528
+
+	 next lesson: https://www.educative.io/collection/page/10370001/4603037207756800/5946623098617856
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Introduction to Query Params
+	 Lesson URL: https://www.educative.io/collection/page/10370001/4603037207756800/5722289641881600
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Sorting the List of Songs
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/xVA8olGZO1E
+
+	 last chapter: https://www.educative.io/collection/page/10370001/4603037207756800/6523509096841216
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Starting With Loading Subroutes
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/B1AMJ5PomoX
+
+	 Nested Routes: https://www.educative.io/collection/page/10370001/4603037207756800/4526561804419072
+
+ Module Title: Develop Robust Applications with Ember.js
+	 ==>Lesson Title: Testing a Helper
+	 Lesson URL: https://www.educative.io/courses/robust-ember-js-applications/NEn2w5ykvZ8
+
+	 Appendix: https://www.educative.io/collection/page/10370001/4603037207756800/6251904005308416

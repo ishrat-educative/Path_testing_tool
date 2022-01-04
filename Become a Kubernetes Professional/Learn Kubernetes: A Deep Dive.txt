@@ -1,0 +1,24 @@
+
+ Module Title: Learn Kubernetes: A Deep Dive
+	 ==>Lesson Title: What's Next?
+	 Lesson URL: https://www.educative.io/courses/the-kubernetes-course/Bng79EOODO2
+
+	 Magic Sandbox: https://www.educative.io/courses/the-kubernetes-course/msb.com
+
+ Module Title: Learn Kubernetes: A Deep Dive
+	 ==>Lesson Title: Pod Theory
+	 Lesson URL: https://www.educative.io/courses/the-kubernetes-course/NEM6L3mGGlN
+
+	 previous chapter: https://www.educative.io/collection/page/10370001/6445473125629952/5951419682127872
+
+ Module Title: Learn Kubernetes: A Deep Dive
+	 ==>Lesson Title: Pod Theory
+	 Lesson URL: https://www.educative.io/courses/the-kubernetes-course/NEM6L3mGGlN
+
+	 previous chapter: https://www.educative.io/collection/page/10370001/6445473125629952/5951419682127872
+
+ Module Title: Learn Kubernetes: A Deep Dive
+	 ==>Lesson Title: What's Next?
+	 Lesson URL: https://www.educative.io/courses/the-kubernetes-course/Bng79EOODO2
+
+	 Magic Sandbox: https://www.educative.io/courses/the-kubernetes-course/msb.com

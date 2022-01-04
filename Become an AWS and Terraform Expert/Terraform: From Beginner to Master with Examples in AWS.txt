@@ -1,0 +1,126 @@
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Terraform to the Rescue
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/qVNxw2v53w0
+
+	 last lesson: https://www.educative.io/collection/page/10370001/4521607274430464/5681616804904960
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Creating Your First Infrastructure With Terraform
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/RLo3onP9OkO
+
+	 Setting up an AWS Account: https://www.educative.io/collection/page/10370001/4521607274430464/4750401267564544
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Resources in Detail
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/B8XGzWJO9G2
+
+	 previous chapter: https://www.educative.io/collection/page/10370001/4521607274430464/4998318873116672
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Locals in Detail
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/B1ywgxL1jz2
+
+	 variables: https://www.educative.io/collection/page/10370001/4521607274430464/4837369100894208
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Files
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/7XlP3EzgwjG
+
+	 locals: https://www.educative.io/collection/page/10370001/4521607274430464/6488065491599360
+
+	 previous chapter: https://www.educative.io/collection/page/10370001/4521607274430464/6488065491599360
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Templatefile Function
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/YMPAn6m44EW
+
+	 locals: https://www.educative.io/collection/page/10370001/4521607274430464/6488065491599360
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Setting a Variable on the Command Line
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/YMPBkG44Opp
+
+	 last lesson: https://www.educative.io/collection/page/10370001/4521607274430464/5930782210654208
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Setting a Variable Using an Environment Variable
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/g2OxKgXK04G
+
+	 last lesson: https://www.educative.io/collection/page/10370001/4521607274430464/5358749844242432
+
+	 chapter: https://www.educative.io/collection/page/10370001/4521607274430464/5930782210654208
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Type Constraints - Simple Types
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/NEn9wkzvv4N
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Layout
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/JQLVDNY3kR2
+
+	 next chapter: https://www.educative.io/collection/page/10370001/4521607274430464/6106993176084480
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Modules Introduction
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/3jzNP7D3Vmp
+
+	 last chapter: https://www.educative.io/collection/page/10370001/4521607274430464/4916240739467264
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Modules in Action
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/gkp4xVngZyG
+
+	 Variables chapter: https://www.educative.io/collection/page/10370001/4521607274430464/4837369100894208
+
+	 Outputs chapter: https://www.educative.io/collection/page/10370001/4521607274430464/5945296985522176
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Returning a Complex Type From a Module
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/q2J43qM2Dxr
+
+	 last lesson: https://www.educative.io/collection/page/10370001/4521607274430464/5024543356223488
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Plans Introduction
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/mE21l5xqomG
+
+	 later chapter: https://www.educative.io/collection/page/10370001/4521607274430464/5166254396014592
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Remote State
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/qZNQ8mVOKNk
+
+	 this chapter: https://www.educative.io/collection/page/10370001/4521607274430464/6022350108098560
+
+	 this chapter: https://www.educative.io/collection/page/10370001/4521607274430464/6022350108098560
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Workspaces
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/YMZXWR8xVN9
+
+	 previous chapter: https://www.educative.io/collection/page/10370001/4521607274430464/6022350108098560
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Provisioners Introduction
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/N7KzXplMZrN
+
+	 Variables chapter: https://www.educative.io/collection/page/10370001/4521607274430464/4837369100894208
+
+	 Resources: https://www.educative.io/collection/page/10370001/4521607274430464/5796152971100160
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: Count
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/BnL19pAOWZY
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: 🎊Summary
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/JYkBn4J46rJ
+
+	 state chapter: https://www.educative.io/collection/page/10370001/4521607274430464/6022350108098560
+
+ Module Title: Terraform: From Beginner to Master with Examples in AWS
+	 ==>Lesson Title: 🎊Summary
+	 Lesson URL: https://www.educative.io/courses/terraform-beginner-master-aws/JYkBn4J46rJ
+
+	 state chapter: https://www.educative.io/collection/page/10370001/4521607274430464/6022350108098560

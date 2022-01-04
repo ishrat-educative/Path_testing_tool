@@ -1,0 +1,62 @@
+
+ Module Title: HTML for front end developers
+	 ==>Lesson Title: 📚 Self-Evaluation: A Structured Diagnostic on HTML5 Fundamentals
+	 Lesson URL: https://www.educative.io/courses/html-for-front-end-interviews/3949jJk1nq9
+
+	 Web development:Unraveling HTML, CSS & -JS: https://www.educative.io/courses/web-development-unraveling-html-css-js
+
+ Module Title: HTML for front end developers
+	 ==>Lesson Title: 📚 Self-Evaluation: Multiple Choice Assessment
+	 Lesson URL: https://www.educative.io/courses/html-for-front-end-interviews/7DmBVgng0Zj
+
+	 Web development:Unraveling HTML, CSS & -JS: https://www.educative.io/courses/web-development-unraveling-html-css-js
+
+ Module Title: HTML for front end developers
+	 ==>Lesson Title: Self-Eval Exercise 5: Form Fundamentals
+	 Lesson URL: https://www.educative.io/courses/html-for-front-end-interviews/R1VX9NL3Yx0
+
+	 Web development:Unraveling HTML, CSS & -JS: https://www.educative.io/courses/web-development-unraveling-html-css-js
+
+ Module Title: HTML for front end developers
+	 ==>Lesson Title: The Horizons That Await After This Course
+	 Lesson URL: https://www.educative.io/courses/html-for-front-end-interviews/qAA34P3v3ZD
+
+	 The Complete Javascript Interview Handbook: https://www.educative.io/courses/javascript-interview-handbook
+
+	 The Complete Advanced Guide to CSS: https://www.educative.io/courses/the-complete-advanced-guide-to-css
+
+	 CSS Theming for Professionals: https://www.educative.io/courses/css-theming-for-professionals
+
+	 Sass for CSS: Advanced Frontend Development: https://www.educative.io/courses/sass-for-css
+
+	 Understanding Flexbox: Everything you need to know: https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know
+
+	 Intermediate JavaScript: Building Frontend Components: https://www.educative.io/courses/intermediate-javascript
+
+	 HTML5 Canvas: From Noob to Ninja - an interactive deep dive: https://www.educative.io/courses/html5-canvas-from-noob-to-ninja-an-interactive-deep-dive
+
+	 The Road to learn React: https://www.educative.io/courses/the-road-to-learn-react
+
+	 Reintroducing React: V16 and Beyond: https://www.educative.io/courses/reintroducing-react-v16-beyond
+
+	 React in Patterns: https://www.educative.io/courses/react-in-patterns
+
+	 Advanced React Patterns With Hooks: https://www.educative.io/courses/html-for-front-end-interviews/educative.io/courses/advanced-react-patterns-with-hooks
+
+	 Database Design Fundamentals for Software Engineers: https://www.educative.io/courses/database-design-fundamentals
+
+	 Full-Stack Web Applications with Firebase: https://www.educative.io/courses/fullstack-web-apps-with-firebase
+
+	 The Definitive Guide to MongoDB: https://www.educative.io/courses/definitive-guide-to-mongodb
+
+	 Flask: Develop Web Applications in Python: https://www.educative.io/courses/flask-develop-web-applications-in-python
+
+	 Learn PHP from Scratch: https://www.educative.io/courses/learn-php-from-scratch
+
+	 JavaScript In Practice: ES6 And Beyond: https://www.educative.io/courses/javascript-in-practice-es6-and-beyond
+
+	 The Complete Guide to Modern JavaScript: https://www.educative.io/courses/complete-guide-to-modern-javascript
+
+	 JavaScript Fundamentals Before Learning React: https://www.educative.io/courses/javascript-fundamentals-before-learning-react
+
+	 Web Application & Software Architecture 101: https://www.educative.io/courses/web-application-software-architecture-101

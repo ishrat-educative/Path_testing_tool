@@ -1,0 +1,116 @@
+
+	 Phyical Communication Media: https://www.educative.io/collection/page/10370001/6105520698032128/5697465422446592
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The Open Systems Interconnection (OSI) Model
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/JPJRz7AlVjg
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: HTTP: The Basics
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/B8ZkJYkmR2W
+
+	 Network Application Architectures: https://www.educative.io/collection/page/10370001/6105520698032128/6317711061680128
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The User Datagram Protocol
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/YVK8ZJPLN3A
+
+	 next chapter: https://www.educative.io/collection/page/10370001/6105520698032128/5105508815994880
+
+	 next lesson: https://www.educative.io/collection/page/10370001/6105520698032128/6036281094045696
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: UDP Checksum Calculation & Why UDP?
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/qVvBjxOVE33
+
+	 transport layer protocol: https://www.educative.io/collection/page/10370001/6105520698032128/4608034330378240
+
+	 DNS: https://www.educative.io/collection/page/10370001/6105520698032128/5448697208897536
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: TCP Header Flags
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/gkPznVK1qn9
+
+	 connection establishment: https://www.educative.io/collection/page/10370001/6105520698032128/5371969778221056
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: TCP Headers: Window Size, Checksum & More
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/B13opVG7QRJ
+
+	 last lesson: https://www.educative.io/collection/page/10370001/6105520698032128/5250889600204800
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: Setting up a UDP Socket
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/xVMkk76v2NE
+
+	 later lesson: https://www.educative.io/collection/page/10370001/6105520698032128/6085702359973888
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: Writing a UDP Client Program
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/JP8VR6glEjg
+
+	 ephemeral ports: https://www.educative.io/collection/page/10370001/6105520698032128/4527384009113600
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: A TCP Client-Server Program
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/x1x73w8029z
+
+	 the last chapter: https://www.educative.io/collection/page/10370001/6105520698032128/5100180976173056
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The Internet Protocol: Introduction to IPV4
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/39KvLrwoQv4
+
+	 network interfaces: https://www.educative.io/collection/page/10370001/6105520698032128/4790825139568640
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The Internet Protocol: Introduction to IPV4
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/39KvLrwoQv4
+
+	 network interfaces: https://www.educative.io/collection/page/10370001/6105520698032128/4790825139568640
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The Internet Protocol: IPV4 Address Allocation
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/R1EJmVzkjgL
+
+	 previous chapter: https://www.educative.io/collection/page/10370001/6105520698032128/5028778155704320
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The Internet Protocol: IPV4 Packets
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/R1ZpYLD0Now
+
+	 next lesson: https://www.educative.io/collection/page/10370001/6105520698032128/5781285068865536
+
+	 next lesson: https://www.educative.io/collection/page/10370001/6105520698032128/5781285068865536
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: Why IPv6?
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/mElowPNVxqO
+
+	 NAT boxes: https://www.educative.io/courses/grokking-computer-networking/3j2LL5Egvzx
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The Internet Protocol: Introduction to IPV4
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/39KvLrwoQv4
+
+	 network interfaces: https://www.educative.io/collection/page/10370001/6105520698032128/4790825139568640
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The Internet Protocol: IPV4 Address Allocation
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/R1EJmVzkjgL
+
+	 previous chapter: https://www.educative.io/collection/page/10370001/6105520698032128/5028778155704320
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: The Internet Protocol: IPV4 Packets
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/R1ZpYLD0Now
+
+	 next lesson: https://www.educative.io/collection/page/10370001/6105520698032128/5781285068865536
+
+	 next lesson: https://www.educative.io/collection/page/10370001/6105520698032128/5781285068865536
+
+ Module Title: Network Fundamentals
+	 ==>Lesson Title: Why IPv6?
+	 Lesson URL: https://www.educative.io/courses/grokking-computer-networking/mElowPNVxqO
+
+	 NAT boxes: https://www.educative.io/courses/grokking-computer-networking/3j2LL5Egvzx

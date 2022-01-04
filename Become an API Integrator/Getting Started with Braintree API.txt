@@ -1,0 +1,6 @@
+
+	 next lesson: https://www.educative.io/collection/page/10370001/6255385826033664/4608692479066112
+
+ Module Title: Getting Started with Braintree API
+	 ==>Lesson Title: Client Setup for Braintree
+	 Lesson URL: https://www.educative.io/courses/getting-started-braintree-api/7n2OA83BLQG

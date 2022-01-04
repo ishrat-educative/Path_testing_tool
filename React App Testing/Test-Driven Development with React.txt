@@ -1,0 +1,50 @@
+
+ Module Title: Test-Driven Development with React
+	 ==>Lesson Title: Why Test-Driven Development and Jest
+	 Lesson URL: https://www.educative.io/courses/test-driven-react-development/g2G38P5QRwZ
+
+	 Integrated Tooling with VS Code: https://www.educative.io/collection/page/10370001/4635489064189952/5415609777520640
+
+	 Testing React with Enzyme: https://www.educative.io/collection/page//10370001/4635489064189952/6065115451883520
+
+ Module Title: Test-Driven Development with React
+	 ==>Lesson Title: Running Jest with npx and npm
+	 Lesson URL: https://www.educative.io/courses/test-driven-react-development/Bn8Lx9KNwpY
+
+	 Continuous Integration and Collaboration: https://www.educative.io/collection/page/10370001/4635489064189952/5146711102586880
+
+ Module Title: Test-Driven Development with React
+	 ==>Lesson Title: Introduction to VS Code
+	 Lesson URL: https://www.educative.io/courses/test-driven-react-development/7A526ZKYN8y
+
+	 Testing React with Enzyme: https://www.educative.io/collection/page/10370001/4635489064189952/6065115451883520
+
+ Module Title: Test-Driven Development with React
+	 ==>Lesson Title: Component Testing with Enzyme
+	 Lesson URL: https://www.educative.io/courses/test-driven-react-development/7no6BrLPgjy
+
+	 in the next chapter: https://www.educative.io/collection/page/10370001/4635489064189952/5794690872377344
+
+ Module Title: Test-Driven Development with React
+	 ==>Lesson Title: Webpack
+	 Lesson URL: https://www.educative.io/courses/test-driven-react-development/JYQ1RrX8nnJ
+
+	 project from the last chapter: https://www.educative.io/collection/page/10370001/4635489064189952/4724947797147648
+
+ Module Title: Test-Driven Development with React
+	 ==>Lesson Title: Webpack Configuration and Server
+	 Lesson URL: https://www.educative.io/courses/test-driven-react-development/39qK9L1PXqx
+
+	 Adding Docs with Storybook: https://www.educative.io/collection/page/10370001/4635489064189952/4746172292399104
+
+ Module Title: Test-Driven Development with React
+	 ==>Lesson Title: Test Styled Components
+	 Lesson URL: https://www.educative.io/courses/test-driven-react-development/qZvOOm798O0
+
+	 Mantra: Test One Piece at a Time: https://www.educative.io/collection/page/10370001/4635489064189952/5187543870472192
+
+ Module Title: Test-Driven Development with React
+	 ==>Lesson Title: Creating Higher-Order Component
+	 Lesson URL: https://www.educative.io/courses/test-driven-react-development/m2l00Y8Vln3
+
+	 project from the previous chapter: https://www.educative.io/collection/page/10370001/4635489064189952/4861976975507456

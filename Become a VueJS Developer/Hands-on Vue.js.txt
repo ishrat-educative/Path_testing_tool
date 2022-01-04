@@ -1,0 +1,12 @@
+
+ Module Title: Hands-on Vue.js
+	 ==>Lesson Title: Slots
+	 Lesson URL: https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa/xo9zKWym18B
+
+	 earlier: https://www.educative.io/collection/page/10370001/5010275339075584/5434803127058432
+
+ Module Title: Hands-on Vue.js
+	 ==>Lesson Title: Conclusion
+	 Lesson URL: https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa/mEj7yKBnElp
+
+	 Testing Vue Components: https://www.educative.io/courses/testing-vuejs-components-with-jest

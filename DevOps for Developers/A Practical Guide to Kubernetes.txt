@@ -1,0 +1,12 @@
+
+ Module Title: A Practical Guide to Kubernetes
+	 ==>Lesson Title: Giving Others Access to the Cluster
+	 Lesson URL: https://www.educative.io/courses/practical-guide-to-kubernetes/g7GR4B0pJxl
+
+	 explained: https://www.educative.io/collection/page/10370001/5920988434792448/6225984300777472
+
+ Module Title: A Practical Guide to Kubernetes
+	 ==>Lesson Title: Analyzing Failure of the Stateful Application
+	 Lesson URL: https://www.educative.io/courses/practical-guide-to-kubernetes/RMLGyVgAO1w
+
+	 Volumes: https://www.educative.io/collection/page/5376908829130752/4742963282313216/4769265662033920

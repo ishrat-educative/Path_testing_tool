@@ -1,0 +1,24 @@
+
+ Module Title: The DevOps Toolkit: Kubernetes Chaos Engineering
+	 ==>Lesson Title: Deploying the Application
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-kubernetes-chaos-engineering/JY540NA8QQg
+
+	 A Practical Guide to Kubernetes: https://www.educative.io/courses/practical-guide-to-kubernetes
+
+ Module Title: The DevOps Toolkit: Kubernetes Chaos Engineering
+	 ==>Lesson Title: Running Failed Scheduled Experiments
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-kubernetes-chaos-engineering/YMYMxrDQL80
+
+	 A Practical Guide to Kubernetes: https://www.educative.io/courses/practical-guide-to-kubernetes
+
+ Module Title: The DevOps Toolkit: Kubernetes Chaos Engineering
+	 ==>Lesson Title: Deploying the Application
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-kubernetes-chaos-engineering/JY540NA8QQg
+
+	 A Practical Guide to Kubernetes: https://www.educative.io/courses/practical-guide-to-kubernetes
+
+ Module Title: The DevOps Toolkit: Kubernetes Chaos Engineering
+	 ==>Lesson Title: Running Failed Scheduled Experiments
+	 Lesson URL: https://www.educative.io/courses/devops-toolkit-kubernetes-chaos-engineering/YMYMxrDQL80
+
+	 A Practical Guide to Kubernetes: https://www.educative.io/courses/practical-guide-to-kubernetes
